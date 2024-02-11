@@ -3,7 +3,7 @@
 interface
 
 uses
-  System.UITypes, System.Classes, FMX.Controls, FMX.Types, FMX.Graphics,
+  System.UITypes, System.Classes, FMX.Controls, FMX.Types, FMX.Graphics, FMX.Filter.Effects,
   System.SysUtils;
 
 type
